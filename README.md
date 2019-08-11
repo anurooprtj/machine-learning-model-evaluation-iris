@@ -38,5 +38,5 @@ Except for Logistic regression, best model for each machine learning method is s
 
 ### Performance Chart 
 
-![alt text](https://github.com/anurooprtj/machine-learning-model-evaluation-iris/blob/master/iris.csv)
+![alt text](https://github.com/anurooprtj/machine-learning-model-evaluation-iris/blob/master/model_comparison_chart.png)
 
