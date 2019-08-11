@@ -1,4 +1,4 @@
-# machine-learning-model-evaluation-fingerprint
+# machine-learning-model-evaluation-iris
 Performance comparion of various machine learning models on background and foreground classification for iris data.
 
 ### Dataset creation
